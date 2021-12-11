@@ -9,7 +9,7 @@
    Date                : 3rd December 2021
 
    Info on Code obtained from other sources:
-                    Inspired from TI Example Reference Code
+                    Inspired from TI Example Reference Code from Website
 
 *******************************************************************************************/
 #include "msp.h"
