@@ -35,7 +35,7 @@ void ADC_init()
     /*S/H pulse mode, sysclk, 32 sample clocks, software trigger*/
     ADC14->CTL0 |= 0x04080300;
 
-    /*12-bit resolution*/
+    /*14-bit resolution*/
     ADC14->CTL1 = 0x00000030;
 
     /*A6 input, single-ended, vref=vcc*/
